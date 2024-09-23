@@ -10,3 +10,4 @@ PAYMENT_HOST: payment--prod.daws66s.online.daws66s.online
 DISPATCH_HOST: dispatch--prod.daws66s.online.daws66s.online 
 NEXUS_URL: http://172.31.87.249:8081/repository
 group_id: "com/roboshop"
+packaging: "zip"
