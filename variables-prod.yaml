@@ -8,3 +8,5 @@ CART_HOST: cart--prod.daws66s.online.daws66s.online
 SHIPPING_HOST: shipping--prod.daws66s.online.daws66s.online 
 PAYMENT_HOST: payment--prod.daws66s.online.daws66s.online 
 DISPATCH_HOST: dispatch--prod.daws66s.online.daws66s.online 
+NEXUS_URL: http://172.31.87.249:8081/repository
+group_id: "com/roboshop"
